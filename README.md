@@ -7,7 +7,7 @@
 At the end we'll have a personalized list of book recommendations,along the way, we'll use pandas, scikit-learn, and numpy.  For processing large data sets, tf-idf, cosine similarity, and styling pandas dataframe columns.
  A personalized list of book recommendations,   
  
- Upcomming Future upadets ,
+ Upcomming Future updaets ,
  we'll  improve your recommendations with collaborative filtering.
 
 And the data can be downloaded at these links:
